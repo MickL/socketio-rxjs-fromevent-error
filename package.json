@@ -1,0 +1,17 @@
+{
+  "name": "rxjs-socketio",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc src/main.ts"
+  },
+  "dependencies": {
+    "rxjs": "~6.6.0",
+    "socket.io-client": "^4.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.2",
+    "typescript": "~4.2.4"
+  }
+}
